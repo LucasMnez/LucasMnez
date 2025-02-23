@@ -1,4 +1,4 @@
-<h2 align="left">Sou um desenvolvedor apaixonado por transformar ideias em código. Acredito na força do open source, na colaboração e no aprendizado contínuo. Aqui, compartilho meus projetos, experimentos e descobertas tecnológicas, sempre em busca de desafios que impulsionem a inovação. Vamos construir juntos um futuro mais digital e colaborativo?
+<h3 align="left">Sou um desenvolvedor apaixonado por transformar ideias em código. Acredito na força do open source, na colaboração e no aprendizado contínuo. Aqui, compartilho meus projetos, experimentos e descobertas tecnológicas, sempre em busca de desafios que impulsionem a inovação. Vamos construir juntos um futuro mais digital e colaborativo?
 
 Sinta-se à vontade para explorar meu trabalho e entrar em contato para trocarmos experiências!</h2>
 
