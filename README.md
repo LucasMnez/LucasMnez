@@ -46,6 +46,6 @@ Sinta-se à vontade para explorar meu trabalho e entrar em contato para trocarmo
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LucasMnez/LucasMnez/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LucasMnez/LucasMnez/refs/heads/main/snake.yml" alt="Snake animation" />
 
 ###
